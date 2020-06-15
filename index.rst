@@ -12,7 +12,7 @@ Gemini Real-Time Controls Documentation
 .. toctree::
    :caption: PDFs:
 
-   pdfs/pdf-index
+   pdfs/pdfs-index
 
 .. toctree::
    :caption: Wiki Docs: 
