@@ -11,7 +11,7 @@ Gemini Real-Time Controls Documentation
 .. toctree::
    :caption: Quick Start Guide:
 
-   Quick Start Guide <quick-start>
+   Quick Start Guide <quick-start/quick-start>
 
 .. toctree::
    :maxdepth: 2
