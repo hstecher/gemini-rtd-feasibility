@@ -1,10 +1,9 @@
-PDF Tests
+Wiki Tests
 =========================================
 
 .. toctree::
-   :caption:  PDF Resources
+   :caption:  Wiki Resources
 
-   ade
 
 
    

@@ -1,10 +1,9 @@
-PDF Tests
+Other Tests
 =========================================
 
 .. toctree::
-   :caption:  PDF Resources
+   :caption:  Other Resources
 
-   ade
 
 
    
