@@ -26,10 +26,12 @@ Gemini Real-Time Controls Documentation
 
 .. toctree::
    :caption: HTML Docs:
+
    html/html-index
 
 .. toctree::
    :caption: Other Docs:
+
    other/other-index
 
 .. toctree::
