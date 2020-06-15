@@ -13,6 +13,7 @@ Gemini Real-Time Controls Documentation
    :maxdepth: 1
    :caption: Hawi's Docs:
 
+   hawi/hawi-index
    howtos/RTEMSInstall
    howtos/EPICSInstall
    howtos/ADEInstall
