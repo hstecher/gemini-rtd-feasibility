@@ -2,8 +2,7 @@ Gemini Real-Time Controls Documentation
 =========================================
 
 .. toctree::
-   :maxdepth: 1
-   :caption: Community Resources
+   :caption:  Hawi's Resources
 
    EPICS Website <https://epics-controls.org>
    EPICS Documentation <https://docs.epics-controls.org>

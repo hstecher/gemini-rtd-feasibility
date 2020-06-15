@@ -10,7 +10,6 @@ Gemini Real-Time Controls Documentation
 
 
 .. toctree::
-   :maxdepth: 1
    :caption: Hawi's Docs:
 
    hawi/hawi-index
