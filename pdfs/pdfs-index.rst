@@ -4,7 +4,7 @@ PDF Tests
 .. toctree::
    :caption:  PDF Resources
 
-   ade
+   Gemini Application Developers Guide <ade>
 
 
    
