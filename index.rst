@@ -10,25 +10,22 @@ Gemini Real-Time Controls Documentation
 
 
 .. toctree::
-   :caption: Hawi's Docs:
+   :caption: PDFs:
 
-   hawi/hawi-index
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Emma's Docs: 
+   pdfs/pdf-index
 
 .. toctree::
-   :maxdepth: 1
-   :caption: Tiffany's Docs:
+   :caption: Wiki Docs: 
+
+   wiki/wiki-index
 
 .. toctree::
-   :maxdepth: 1
-   :caption: Tim's Docs:
+   :caption: HTML Docs:
+   html/html-index
 
 .. toctree::
-   :maxdepth: 1
-   :caption: Tom's Docs:
+   :caption: Other Docs:
+   other/other-index
 
 .. toctree::
    :maxdepth: 1
