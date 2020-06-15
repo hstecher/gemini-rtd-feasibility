@@ -9,13 +9,6 @@ Gemini Real-Time Controls Documentation
    EPICS Documentation <https://docs.epics-controls.org>
 
 
-#.. toctree::
-#   :maxdepth: 1
-#   :caption: Gemini Manuals:
-
-#   manuals/ade
-#   manuals/GeminiRRM
-
 
 .. toctree::
    :maxdepth: 1
