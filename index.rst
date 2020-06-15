@@ -14,9 +14,6 @@ Gemini Real-Time Controls Documentation
    :caption: Hawi's Docs:
 
    hawi/hawi-index
-   howtos/RTEMSInstall
-   howtos/EPICSInstall
-   howtos/ADEInstall
 
 .. toctree::
    :maxdepth: 1
