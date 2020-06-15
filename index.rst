@@ -10,6 +10,7 @@ Gemini Real-Time Controls Documentation
    
 .. toctree::
    :caption: Quick Start Guide:
+
    Quick Start Guide <quick-start>
 
 .. toctree::
