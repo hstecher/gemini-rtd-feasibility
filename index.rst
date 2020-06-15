@@ -7,7 +7,10 @@ Gemini Real-Time Controls Documentation
 
    EPICS Website <https://epics-controls.org>
    EPICS Documentation <https://docs.epics-controls.org>
-
+   
+.. toctree::
+   :caption: Quick Start Guide:
+   Quick Start Guide <quick-start>
 
 .. toctree::
    :maxdepth: 2
