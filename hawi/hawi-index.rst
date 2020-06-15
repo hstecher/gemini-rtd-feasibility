@@ -1,12 +1,10 @@
-Gemini Real-Time Controls Documentation
+Hawi's Tests
 =========================================
 
 .. toctree::
    :caption:  Hawi's Resources
 
-   EPICS Website <https://epics-controls.org>
-   EPICS Documentation <https://docs.epics-controls.org>
-
+   ade
 
 
    
