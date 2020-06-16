@@ -1,7 +1,7 @@
 Quick Start Guide
 =================
 
-** Convert docs to rst **
+ ** Convert docs to rst **
  1. ``pandoc -help`` Install pandoc if needed
  2. ``pandoc -f pdf -t rst filename.pdf -o filename.rst`` typical pandoc usage
  3. ``pandoc -f pdf -t rst filename.pdf -o filename.rst --extract-media=./media`` convert doc with images
@@ -9,7 +9,7 @@ Quick Start Guide
 
   * Note: rst is indent aware like python 
 
-** Put docs in Gemini RTD Feasibility Git Repo **
+ ** Put docs in Gemini RTD Feasibility Git Repo **
  1. ``yum install git`` install git if needed
  2. ``git clone https://github.com/hstecher/gemini-rtd-feasibility.git`` clone the RTD study repo
  3. Copy rst files into the appropriate repo directory
@@ -36,7 +36,7 @@ Quick Start Guide
 
   * The github.com repo page will also have a link to the documents on Read-The-Docs
 
-** Additional Info **
+ ** Additional Info **
  `reStructuredText Primer <https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html>`_
 
  `TOC Tree usage <https://www.sphinx-doc.org/en/1.5/markup/toctree.html>`_ 
