@@ -4,7 +4,7 @@ Other Tests
 .. toctree::
    :caption: Google Docs exported as docx
 
-   ag-upgrade-report.rst  
-   ag-use-cases.rst
+   A&G Upgrade Report <ag-upgrade-report.rst>  
+   A&G Use Cases <ag-use-cases.rst>
    
 
