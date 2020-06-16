@@ -37,6 +37,9 @@ Quick Start Guide
   *``git commit pdfs-index.rst -m "comment"``
  7. Push new files to git & Read-The-Docs
   *``git push origin master``
+ 8. After the ``git push`` Read-The-Docs will take a few minutes to upload your docs
+ 9. View updated `docs <https://gemini-rtd-feasibility.readthedocs.io/en/latest/index.html>`_
+  *The github.com repo page will also have a link to the documents on Read-The-Docs
 
  `reStructuredText Primer <https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html>`_
 
