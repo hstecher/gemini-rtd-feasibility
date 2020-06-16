@@ -8,7 +8,8 @@ Other Tests
     :language: c
     :emphasize-lines: 5-10
 
-.. toctree:
+.. toctree::
+   :caption: Google Docs exported as docx
 
    ag-upgrade-report.rst  
    ag-use-cases.rst
