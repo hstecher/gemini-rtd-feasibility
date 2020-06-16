@@ -17,8 +17,6 @@ Quick Start Guide
 	* git clone https://github.com/hstecher/gemini-rtd-feasibility.git
 
 
-reStructuredText Primer 
-https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html
+'reStructuredText Primer <https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html>'_
 
-TOC Tree usage 
-https://www.sphinx-doc.org/en/1.5/markup/toctree.html 
+'TOC Tree usage <https://www.sphinx-doc.org/en/1.5/markup/toctree.html>'_ 
