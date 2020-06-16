@@ -31,7 +31,7 @@ Quick Start Guide
       ``   :caption:  PDF Resources ``
 
       ``   Gemini Application Developers Guide <ade>``
-      ``  <add new files here>``
+      ``   <add new files here>``
  6. Commit new files 
   * ``git commit filename.rst -m "comment"``
   * ``git commit pdfs-index.rst -m "comment"``
