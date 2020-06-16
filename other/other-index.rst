@@ -1,8 +1,18 @@
 Other Tests
 =========================================
 
-.. toctree::
-   :caption:  Other Resources
+
+----------
+Test code block
+----------
+
+.. sourcecode:: c++
+
+.. include:: ../src/testMain.cpp
+
+
+
+
 
 
 
