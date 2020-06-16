@@ -1,11 +1,3 @@
 .index.rst.swp
 .quick-start.rst.swp
-Gemini_RTD_Feasibility.cflags
-Gemini_RTD_Feasibility.config
-Gemini_RTD_Feasibility.creator
-Gemini_RTD_Feasibility.creator.user
-Gemini_RTD_Feasibility.cxxflags
-Gemini_RTD_Feasibility.files
-Gemini_RTD_Feasibility.includes
-QtGit.sh
-.other-index.rsst.swp
+other/.other-index.rst.swp
