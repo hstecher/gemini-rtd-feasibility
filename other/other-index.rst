@@ -8,6 +8,9 @@ Other Tests
     :language: c
     :emphasize-lines: 5-10
 
+.. toctree:
 
+   ag-upgrade-report.rst  
+   ag-use-cases.rst
    
 
