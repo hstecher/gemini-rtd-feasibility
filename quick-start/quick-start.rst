@@ -1,44 +1,45 @@
 Quick Start Guide
 =================
 
-.. toctree::
-   :caption: pandoc
-
-   Pandoc <pandoc>   
-
 **Convert docs to rst**
- 1. pandoc -help
- 2. Example: 
-  * ``pandoc -f pdf -t rst filename.pdf -o filename.rst``
- 3. Example with images: 
-  * ``pandoc -f pdf -t rst filename.pdf -o filename.rst --extract-media=./media``
+ 1. ``pandoc -help`` Install pandoc if needed
+ 2. ``pandoc -f pdf -t rst filename.pdf -o filename.rst`` typical pandoc usage
+ 3. ``pandoc -f pdf -t rst filename.pdf -o filename.rst --extract-media=./media`` conver doc with images
+ 4. or `write rst <https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html>`_ 
+
+  * Note: rst is indent aware like python 
 
 **Put docs in Gemini RTD Feasibility Git Repo**
- 1. Install git 
-  * ``yum install git``
- 2. Clone repo 
-  * ``git clone https://github.com/hstecher/gemini-rtd-feasibility.git``
+ 1. ``yum install git`` install git if needed
+ 2. ``git clone https://github.com/hstecher/gemini-rtd-feasibility.git`` clone the RTD study repo
  3. Copy rst files into the appropriate repo directory
+
   * ``pdfs/``
   * ``html/``
   * ``wiki/``
   * ``other/``
- 4. Add new files to git 
-  * ``git add filename.rst``
- 5. Edit the appropriate index.rst 
-  * ``vi pdfs/pdfs-index.rst``
-    * ``.. toctree::``
-      ``   :caption:  PDF Resources ``
 
-      ``   Gemini Application Developers Guide <ade>``
-      ``   <add new files here>``
- 6. Commit new files 
+ 4. ``git add filename.rst`` add your new files to the repo
+ 5. ``vi pdfs/pdfs-index.rst`` edit the appropriate index.rst file to add your files ::
+
+    ``.. toctree::``
+    ``   :caption:  PDF Resources ``
+
+    ``   Gemini Application Developers Guide <ade>``
+    ``   <add new files here>``
+
+ 6. it new files 
+
   * ``git commit filename.rst -m "comment"``
   * ``git commit pdfs-index.rst -m "comment"``
+
  7. Push new files to git & Read-The-Docs
+
   * ``git push origin master``
+
  8. After the ``git push`` Read-The-Docs will take a few minutes to upload your docs
  9. View updated `docs <https://gemini-rtd-feasibility.readthedocs.io/en/latest/index.html>`_
+
   * The github.com repo page will also have a link to the documents on Read-The-Docs
 
  `reStructuredText Primer <https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html>`_
