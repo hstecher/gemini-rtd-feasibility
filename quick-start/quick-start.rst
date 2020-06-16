@@ -3,7 +3,7 @@ Quick Start Guide
 
  **Convert docs to rst**
 
- 1. ``pandoc -help`` Install pandoc if needed
+ 1. ``pandoc --help`` Install pandoc if needed
  2. pdfs will have to be converted to docx using word
  2. ``pandoc -f docx -t rst filename.docx -o filename.rst`` typical pandoc usage
  3. ``pandoc -f docx -t rst filename.docx -o filename.rst --extract-media=./media`` convert doc with images
