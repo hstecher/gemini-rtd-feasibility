@@ -39,6 +39,12 @@ Gemini Real-Time Controls Documentation
 
 .. toctree::
    :maxdepth: 1
+   :caption: Code:
+   
+   code/code-index
+
+.. toctree::
+   :maxdepth: 1
    :caption: Gemini HowTo's:
 
    howtos/RTEMSInstall
