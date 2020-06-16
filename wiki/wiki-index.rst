@@ -3,8 +3,8 @@ Wiki Tests
 
 .. toctree::
    :caption:  Wiki Resources
-  
-   crwikitest
-   test
+      
+    Coordinator Roles <crwikitest>
+    test
    
 
