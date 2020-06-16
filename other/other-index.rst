@@ -8,7 +8,7 @@ Test code block
 
 .. sourcecode:: c++
 
- .. literalinclude:: testMain.cpp
+.. literalinclude:: testMain.cpp
     :code: c++
   
 
