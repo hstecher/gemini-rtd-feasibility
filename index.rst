@@ -32,7 +32,7 @@ Gemini Real-Time Controls Documentation
    html/html-index
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Other Docs:
    
    other/other-index
