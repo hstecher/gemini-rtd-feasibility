@@ -22,10 +22,14 @@ Quick Start Guide
  4. ``git add <filename>`` add your new files to the repo
  5. ``vi pdfs/pdfs-index.rst`` edit the appropriate index.rst file to add your files ::
 
-    .. toctree::
-    :caption:  PDF Resources
-    Gemini Application Developers Guide <ade>
-    <add new files here>
+   .. code-block:: rst
+      :emphasize-lines: 4
+
+      .. toctree
+      :caption:  PDF Resources
+      Gemini Application Developers Guide <ade>
+      <add new files here>
+
 
  6. ``git commit filename.rst -m "comment"`` commit your changes
     ``git commit pdfs-index.rst -m "comment"``
