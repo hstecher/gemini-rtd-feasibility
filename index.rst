@@ -20,6 +20,7 @@ Gemini Real-Time Controls Documentation
    pdfs/pdfs-index
 
 .. toctree::
+   :maxdepth: 2
    :caption: Wiki Docs: 
 
    wiki/wiki-index
