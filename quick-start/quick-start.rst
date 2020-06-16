@@ -7,13 +7,13 @@ Quick Start Guide
    Pandoc <pandoc>   
 
 **Convert docs to rst**
-1. pandoc -help
-2. ex: pandoc -f pdf -t rst filename.pdf -o filename.rst
-3. ex: pandoc -f pdf -t rst filename.pdf -o filename.rst --extract-media=./media
+ 1. pandoc -help
+ 2. ex: pandoc -f pdf -t rst filename.pdf -o filename.rst
+ 3. ex: pandoc -f pdf -t rst filename.pdf -o filename.rst --extract-media=./media
 
 **Put docs in Gemini RTD Feasibility Git Repo**
-1. Install git (yum install git)
-2. Clone repo
+ 1. Install git (yum install git)
+ 2. Clone repo
 	* git clone https://github.com/hstecher/gemini-rtd-feasibility.git
 
 
