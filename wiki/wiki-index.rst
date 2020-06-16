@@ -5,6 +5,5 @@ Wiki Tests
    :caption:  Wiki Resources
 
    Coordinator Roles <crwikitest>
-   test
    
 
