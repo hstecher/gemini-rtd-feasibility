@@ -2,6 +2,7 @@ Quick Start Guide
 =================
 
  **Convert docs to rst**
+
  1. ``pandoc -help`` Install pandoc if needed
  2. ``pandoc -f pdf -t rst filename.pdf -o filename.rst`` typical pandoc usage
  3. ``pandoc -f pdf -t rst filename.pdf -o filename.rst --extract-media=./media`` convert doc with images
