@@ -20,11 +20,11 @@ Quick Start Guide
   * ``other/``
 
  4. ``git add <filename>`` add your new files to the repo
- 5. ``vi pdfs/pdfs-index.rst`` edit the appropriate index.rst file to add your files ::
+ 5. ``vi pdfs/pdfs-index.rst`` edit the appropriate index.rst file to add your files to the end ::
 
    .. literalinclude:: ../pdfs/pdfs-index.rst 
       :language: rst
-      :emphasize-lines: 4
+      :emphasize-lines: 8
 
  6. ``git commit filename.rst -m "comment"`` commit your changes
     ``git commit pdfs-index.rst -m "comment"``
