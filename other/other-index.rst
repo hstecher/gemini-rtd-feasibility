@@ -8,7 +8,7 @@ Test code block
 
 .. sourcecode:: c++
 
-.. include:: ../src/testMain.cpp
+  .. include:: ../src/testMain.cpp
 
 
 
