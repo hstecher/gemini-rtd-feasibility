@@ -2,10 +2,11 @@ Other Tests
 =========================================
 
 
-Test code block ::
+**Test code block**
 
- .. literalinclude:: testMain.cpp
-    :code: c
+ .. literalinclude:: testMain.cpp 
+    :language: c
+    :emphasize-lines: 5-10
 
 
    
