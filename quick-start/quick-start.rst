@@ -9,7 +9,8 @@ Quick Start Guide
 
   * Note: rst is indent aware like python 
 
- ** Put docs in Gemini RTD Feasibility Git Repo **
+ **Put docs in Gemini RTD Feasibility Git Repo**
+
  1. ``yum install git`` install git if needed
  2. ``git clone https://github.com/hstecher/gemini-rtd-feasibility.git`` clone the RTD study repo
  3. Copy rst files into the appropriate repo directory
@@ -34,13 +35,14 @@ Quick Start Guide
  8. After the ``git push`` Read-The-Docs will take a few minutes to upload your docs
  9. View updated `docs here <https://gemini-rtd-feasibility.readthedocs.io/en/latest/index.html>`_
 
-  * The github.com repo page will also have a link to the documents on Read-The-Docs
+  * The `github.com <https://www.github.com/hstecher/gemini-rtd-feasibility>`_ repo page will also have a link to the documents on Read-The-Docs
 
- ** Additional Info **
- `reStructuredText Primer <https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html>`_
+ **Additional Info**
 
- `TOC Tree usage <https://www.sphinx-doc.org/en/1.5/markup/toctree.html>`_ 
+ * `reStructuredText Primer <https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html>`_
+
+ * `TOC Tree usage <https://www.sphinx-doc.org/en/1.5/markup/toctree.html>`_ 
  
- `Another rst guide <https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.htmltext#-formatting>`_ 
+ * `Another rst guide <https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.htmltext#-formatting>`_ 
 
 
