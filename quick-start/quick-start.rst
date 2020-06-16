@@ -41,5 +41,7 @@ Quick Start Guide
  `reStructuredText Primer <https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html>`_
 
  `TOC Tree usage <https://www.sphinx-doc.org/en/1.5/markup/toctree.html>`_ 
+ 
+ `Another rst guide <https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.htmltext#-formatting>`_ 
 
 
