@@ -2,3 +2,4 @@
 .quick-start.rst.swp
 other/.other-index.rst.swp
 *.swp	
+_build/*
