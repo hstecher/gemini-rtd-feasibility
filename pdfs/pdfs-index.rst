@@ -5,6 +5,7 @@ PDF Tests
    :caption:  PDF Resources
 
    Gemini Application Developers Guide <ade>
-   Gemini Record Reference Manual <gemRec>
+
+#   Gemini Record Reference Manual <gemRec>
    
 
