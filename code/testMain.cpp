@@ -21,3 +21,21 @@ int main(int argc,char *argv[])
     epicsExit(0);
     return(0);
 }
+
+
+
+/*
+int main(int argc,char *argv[])
+{
+    if(argc>=2) {    
+        iocsh(argv[1]);
+        epicsThreadSleep(.2);
+    }
+    iocsh(NULL);
+    epicsExit(0);
+    return(0);
+}
+
+
+test search for this
+*/
